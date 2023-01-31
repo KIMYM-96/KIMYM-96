@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KIMYM-96&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KIMYM-96&exclude_repo=KIMYM-96.github.io&layout=compact&theme=tokyonight" />
 </a>
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=KIMYM-96&theme=tokyonight&show_icons=true" width="42%" />
