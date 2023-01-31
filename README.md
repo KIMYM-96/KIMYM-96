@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-<code><img alt = "3.1 Python" height="20" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/pytorch_logo_icon_170820.png"> pytorch</code>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KIMYM-96&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=KIMYM-96&show_icons=true">
