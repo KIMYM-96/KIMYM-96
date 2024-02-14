@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### 음....
+### 노력하는중...
 
 <!--
 **KIMYM-96/KIMYM-96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
