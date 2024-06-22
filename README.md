@@ -2,8 +2,8 @@
 
 ### 끝까지 잘해보자!
 
+<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KIMYM-96)
 <!--
 **KIMYM-96/KIMYM-96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
