@@ -1,6 +1,6 @@
-### 다시 도약 해보자!
+### ⚡또 다시 도전!!
 
-### 열심히 노력하는 중...
+### 🤔열심히 노력하는 중......
 
 <!--
 **KIMYM-96/KIMYM-96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
